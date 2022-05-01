@@ -1,0 +1,22 @@
+body {
+  min-height: 3000px;
+}
+.jumbotron {
+  padding-top: 17rem;
+  background-image: url(img/IMG_4018.JPG);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#projects {
+  background-color: #ffe1a9;
+}
+
+.footer {
+  background-color: #fd7e14;
+}
+
+section {
+  padding-top: 5rem;
+}
